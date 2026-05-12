@@ -5,6 +5,8 @@ A fully customizable, highly interactive WebGL Evil Eye component for React, pow
 > **Credit & Customization Notice:**
 > The original base component structure is sourced from **[React Bits](https://reactbits.dev)**. It has been extensively customized and enhanced to feature advanced mouse distance detection, reactive uniform scaling, continuous flame accumulation, and screen-presence handling.
 
+> Deployed link: https://abdulrahmanshihabuddin.github.io/evileye/
+
 ## ✨ Features & Enhancements
 
 - **Interactive Cursor Tracking**: The pupil intelligently follows the cursor position across the screen.
